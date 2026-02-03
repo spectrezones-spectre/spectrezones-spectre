@@ -3,7 +3,7 @@
   <img src="https://your-gif-link-here.gif" width="100%"/>
 </p>
 
-<h1 align="center">👁️‍🗨️ S P E C T R E</h1>
+<h1 align="center">S P E C T R E</h1>
 
 <p align="center">
   <b>FullStack & Mobile Developer</b> • <b>Cybersecurity & Ethical Hacking Student</b>
@@ -113,7 +113,3 @@ then how to **make them stronger**.
 
 All security-related activities are conducted  
 **strictly for educational and ethical purposes**.
-
-<p align="center">
-  <i>Silent • Precise • Effective</i>
-</p>
