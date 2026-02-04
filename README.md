@@ -1,36 +1,26 @@
-<!-- ===================== BANNER / GIF ===================== -->
+<!--
 <p align="center">
-  <img src="https://your-gif-link-here.gif" width="100%"/>
+  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=D%C3%A9veloppeur%20FullStack%20%26%20Mobile;Cybersecurity%20%26%20Ethical%20Hacking%20Student;Je%20suis%20un%20autodidacte%20en%20informatique;Curieux%2C%20analytique%20et%20orient%C3%A9%20recherche;j%E2%80%99explore%20en%20profondeur%20les%20syst%C3%A8mes%2C%20le%20web%20et%20la%20psychologie%20humaine.&font=Fira%20Code&center=true&width=850&height=45&color=38bdae&vCenter=true&pause=1200&size=20" />
+  </a>
+</p> 
+-->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=D%C3%A9veloppeur%20FullStack%20%26%20Mobile&font=Fira%20Code&center=true&width=700&height=42&color=AE00E9&vCenter=true&pause=1500&size=23" />
 </p>
 
-<h1 align="center">S P E C T R E</h1>
-
 <p align="center">
-  <b>FullStack & Mobile Developer</b> • <b>Cybersecurity & Ethical Hacking Student</b>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20%26%20Ethical%20Hacking%20Student&font=Fira%20Code&center=true&width=700&height=40&color=9C07BF&vCenter=true&pause=1500&size=21" />
 </p>
 
 <p align="center">
-  <i>Build secure systems • Think deeper • Stay precise</i>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Autodidacte%20%E2%80%A2%20Curieux%20%E2%80%A2%20Orient%C3%A9%20Recherche&font=Fira%20Code&center=true&width=750&height=38&color=0F455F&vCenter=true&pause=1500&size=19" />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2"/>
-</p>
-
-<!-- ===================== CORE PROFILE ===================== -->
-## 🧠 CORE PROFILE
-
-Autodidact developer driven by **research, analysis, and system understanding**.  
-Focused on **FullStack development**, **security**, and the psychology behind systems and users.
-
-I explore how things work —  
-then how they break —  
-then how to **make them stronger**.
-
-> Silent work. Visible impact.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2"/>
 </p>
 
 <!-- ===================== VISION ===================== -->
@@ -90,13 +80,6 @@ then how to **make them stronger**.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spectrezones-spectre&theme=tokyonight&hide_border=true&ring=38bdae&fire=38bdae&currStreakLabel=38bdae" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectrezones-spectre&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2"/>
-</p>
 
 <!-- ===================== CONTACT ===================== -->
 ## 📡 CONNECTIONS
