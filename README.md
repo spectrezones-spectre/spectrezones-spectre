@@ -7,20 +7,7 @@
 </p> 
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=D%C3%A9veloppeur%20FullStack%20%26%20Mobile&font=Fira%20Code&center=true&width=700&height=42&color=AE00E9&vCenter=true&pause=1500&size=23" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20%26%20Ethical%20Hacking%20Student&font=Fira%20Code&center=true&width=700&height=40&color=9C07BF&vCenter=true&pause=1500&size=21" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Autodidacte%20%E2%80%A2%20Curieux%20%E2%80%A2%20Orient%C3%A9%20Recherche&font=Fira%20Code&center=true&width=750&height=38&color=0F455F&vCenter=true&pause=1500&size=19" />
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2"/>
+  <img src="https://raw.githubusercontent.com/spectrezones-spectre/assets/refs/heads/main/typing.svg"/>
 </p>
 
 <!-- ===================== VISION ===================== -->
