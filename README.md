@@ -1,4 +1,3 @@
-<p align="center">
 <pre>
                                       ███████╗██████╗ ███████╗ ██████╗████████╗██████╗ ███████╗
                                       ██╔════╝██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔══██╗██╔════╝
@@ -7,70 +6,50 @@
                                       ███████║██║     ███████╗╚██████╗   ██║   ██║  ██║███████╗
                                       ╚══════╝╚═╝     ╚══════╝ ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
 </pre>
-</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1600&color=38bdae&center=true&vCenter=true&width=900&height=120&lines=D%C3%A9veloppeur+FullStack+%26+Mobile;Cybersecurity+%26+Ethical+Hacking+Student;Autodidacte+%E2%80%A2+Curieux+%E2%80%A2+Orient%C3%A9+Recherche;Je+suis+Spectre+%E2%80%94+j%E2%80%99observe,+j%E2%80%99analyse;Puis+j%E2%80%99agis.+Rien+n%E2%80%99est+laiss%C3%A9+au+hasard." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1600&color=38bdae&center=true&vCenter=true&width=900&height=120&lines=D%C3%A9veloppeur+FullStack+%26+Mobile;Cybersecurit%C3%A9+%26+Hacking+%C3%89thique;Autodidacte+-+Curieux+-+Chercheur;Je+suis+Spectre+%E2%80%94+j%27analyse,+je+produit;Puis+je+fournis." />
 </p>
+
+<h2 align="left">
+  Salut
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
+
+Je suis **Spectre**, **Dev**, **Hack**, **Sécurité .** <br>
+
+<details>
+  <summary>En savoir plus</summary>
+
+- **Nom** : Spectre
+- **Passions** : Développement, Cybersécurité, Hacking Éthique
+- **Compétences** : Développement Web/Mobile, Analyse de Vulnérabilités, Systèmes Réseaux
+- **En apprentissage** : Vulnérabilités Web Avancées, Pentesting, Reverse Engineering
+- **Objectif** : **Observer, Analyser, Produire, Fournir .**
+- Contact : [WhatsApp](https://wa.me/message/SW6K7BRTNYOXA1)
+
+</details>
+
+## 🛡️ Ma mission
+
+⚡ **Développeur responsable**  
+⚡ **Sécurité offensive & défensive**  
+⚡ **Recherche de vulnérabilités**  
+⚡ **Éthique avant tout**
+
+## 📊 &nbsp;Statistiques GitHub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2"/>
+<a href="https://github.com/spectrezones-spectre">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=spectrezones-spectre&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spectrezones-spectre&layout=compact&langs_count=8&theme=algolia"/>
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spectrezones-spectre&theme=algolia"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spectrezones-spectre&theme=react-dark&hide_border=true" />
+</a>
 </p>
-
-## 🎯 VISION & OBJECTIVES
-
-🚀 Build **innovative and scalable solutions**  
-🔐 Become a **reference in online business security**  
-🧠 Merge **development, hacking & strategic thinking**  
-🕴️ Maintain a **serious, mysterious, and respected profile**
-
-> Not here to play.  
-> Here to **master systems**.
-
-
 
 <!-- ===================== STACK ===================== -->
-## 🔐 SECURITY & STACK
-
-### 💻 Development
+## 🔐 SÉCURITÉ & STACK
+### 💻 Développement
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c" />
 </p>
-
-### 🧠 Cyber & Mindset
-- Ethical Hacking (Learning & Practice)
-- Web Security Fundamentals
-- Research & OSINT
-- System Analysis & Logic
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2"/>
-</p>
-
-<!-- ===================== PROJECTS ===================== -->
-## 🧪 LAB / PROJECTS
-
-🧩 Research-driven projects  
-🧪 Experiments, labs, and private builds  
-🚧 Public repositories coming soon
-
-> Quality before exposure.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2"/>
-</p>
-
-<!-- ===================== CONTACT ===================== -->
-## 📡 CONNECTIONS
-
-📧 **Email** : spectrezones@gmail.com  
-💬 **Telegram** : @Spectre_Zones  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2"/>
-</p>
-
-<!-- ===================== DISCLAIMER ===================== -->
-## ⚠️ DISCLAIMER
-
-All security-related activities are conducted  
-**strictly for educational and ethical purposes**.
